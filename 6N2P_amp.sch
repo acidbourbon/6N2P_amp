@@ -2108,4 +2108,15 @@ Wire Wire Line
 	12900 8500 12900 8450
 Text Notes 1550 13600 0    118  ~ 0
 TODO:\nLDR footprints are too big\nfootswitch -> 2n7000 inverter to swith CL and OD nets
+$Comp
+L micha_custom:6.3MMTRSSwitched J5
+U 1 1 5F86FF44
+P 9150 2050
+F 0 "J5" H 9113 2197 60  0000 C CNN
+F 1 "foot_sw" H 9113 2091 60  0000 C CNN
+F 2 "micha_custom:Reichelt_EBS63P" H 9150 2050 60  0001 C CNN
+F 3 "" H 9150 2050 60  0000 C CNN
+	1    9150 2050
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
