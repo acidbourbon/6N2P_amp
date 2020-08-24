@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 9)
+    (drawings 11)
     (tracks 59)
     (zones 0)
     (modules 72)
@@ -4060,7 +4060,7 @@
   )
 
   (module Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal (layer F.Cu) (tedit 5A3D4993) (tstamp 5F42709B)
-    (at 127.774999 202.975001 270)
+    (at 53 141 270)
     (descr "Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html")
     (tags "Potentiometer horizontal Alps RK163 Single")
     (path /5E9D4A85)
@@ -4115,7 +4115,7 @@
   )
 
   (module Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal (layer F.Cu) (tedit 5A3D4993) (tstamp 5F4270BF)
-    (at 107.324999 202.975001 270)
+    (at 75 141 270)
     (descr "Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html")
     (tags "Potentiometer horizontal Alps RK163 Single")
     (path /5EA01ABF)
@@ -4170,7 +4170,7 @@
   )
 
   (module Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal (layer F.Cu) (tedit 5A3D4993) (tstamp 5F4270E3)
-    (at 187.774999 203.025001 270)
+    (at 97 167 270)
     (descr "Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html")
     (tags "Potentiometer horizontal Alps RK163 Single")
     (path /5EA63875)
@@ -4225,7 +4225,7 @@
   )
 
   (module Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal (layer F.Cu) (tedit 5A3D4993) (tstamp 5F427107)
-    (at 87.874999 202.975001 270)
+    (at 141 167 270)
     (descr "Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html")
     (tags "Potentiometer horizontal Alps RK163 Single")
     (path /5EA6217D)
@@ -4280,7 +4280,7 @@
   )
 
   (module Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal (layer F.Cu) (tedit 5A3D4993) (tstamp 5F42712B)
-    (at 167.324999 203.025001 270)
+    (at 119 167 270)
     (descr "Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html")
     (tags "Potentiometer horizontal Alps RK163 Single")
     (path /5EA5DA4C)
@@ -4335,7 +4335,7 @@
   )
 
   (module Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal (layer F.Cu) (tedit 5A3D4993) (tstamp 5F42714F)
-    (at 138.774999 231.075001 270)
+    (at 163 167 270)
     (descr "Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html")
     (tags "Potentiometer horizontal Alps RK163 Single")
     (path /5EAACE34)
@@ -4390,7 +4390,7 @@
   )
 
   (module Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal (layer F.Cu) (tedit 5A3D4993) (tstamp 5F427173)
-    (at 147.874999 203.025001 270)
+    (at 53 156 270)
     (descr "Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html")
     (tags "Potentiometer horizontal Alps RK163 Single")
     (path /5EBFD7BF)
@@ -4445,7 +4445,7 @@
   )
 
   (module Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal (layer F.Cu) (tedit 5A3D4993) (tstamp 5F427197)
-    (at 118.324999 231.075001 270)
+    (at 97 194 270)
     (descr "Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html")
     (tags "Potentiometer horizontal Alps RK163 Single")
     (path /5ECFAD62)
@@ -4500,7 +4500,7 @@
   )
 
   (module Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal (layer F.Cu) (tedit 5A3D4993) (tstamp 5F4271BB)
-    (at 179.774999 231.125001 270)
+    (at 141 194 270)
     (descr "Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html")
     (tags "Potentiometer horizontal Alps RK163 Single")
     (path /5ECFAD5C)
@@ -4555,7 +4555,7 @@
   )
 
   (module Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal (layer F.Cu) (tedit 5A3D4993) (tstamp 5F4271DF)
-    (at 98.874999 231.075001 270)
+    (at 119 194 270)
     (descr "Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html")
     (tags "Potentiometer horizontal Alps RK163 Single")
     (path /5ECFAD4A)
@@ -4610,7 +4610,7 @@
   )
 
   (module Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal (layer F.Cu) (tedit 5A3D4993) (tstamp 5F427203)
-    (at 159.324999 231.125001 270)
+    (at 163 194 270)
     (descr "Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html")
     (tags "Potentiometer horizontal Alps RK163 Single")
     (path /5ECFAD93)
@@ -4664,6 +4664,12 @@
     )
   )
 
+  (gr_text "gain1, gain1 -> ovdrive\ngain1             -> clean" (at 47 224) (layer F.Cu)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
+  )
+  (gr_text "treb, mid, bass, master   -> ovdrive\ntreb, mid, bass, master   -> clean" (at 124 226) (layer F.Cu)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
+  )
   (gr_line (start 20 160) (end 20 60) (layer Edge.Cuts) (width 0.05) (tstamp 5F42BF68))
   (gr_line (start 245 160) (end 20 160) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 245 60) (end 245 160) (layer Edge.Cuts) (width 0.05))
