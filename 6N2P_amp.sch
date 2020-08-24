@@ -29,7 +29,7 @@ L micha_custom:6.3MMTRSSwitched J1
 U 1 1 5E9C6FF2
 P 4100 8550
 F 0 "J1" H 4063 8697 60  0000 C CNN
-F 1 "6.3MMTRSSwitched" H 4063 8591 60  0000 C CNN
+F 1 "guitar_in" H 4063 8591 60  0000 C CNN
 F 2 "micha_custom:Reichelt_EBS63P" H 4100 8550 60  0001 C CNN
 F 3 "" H 4100 8550 60  0000 C CNN
 	1    4100 8550
@@ -1904,4 +1904,26 @@ NoConn ~ 2000 4150
 NoConn ~ 2000 2650
 NoConn ~ 2000 5600
 NoConn ~ 11250 3950
+Text Label 13600 3000 0    50   ~ 0
+fx_send
+Text Label 14050 3400 0    50   ~ 0
+fx_return
+Text Label 15100 4550 0    50   ~ 0
+power_anode
+Text Label 14900 5550 0    50   ~ 0
+power_gate
+Text Label 15000 5650 0    50   ~ 0
+power_cath
+Text Label 17300 4550 0    50   ~ 0
+spkr_p
+Text Label 17300 4750 0    50   ~ 0
+spkr_n
+Text Label 4900 8650 0    50   ~ 0
+guit_in
+Text Label 7150 8150 0    50   ~ 0
+post_stage_1
+Text Label 10850 12000 0    50   ~ 0
+clean_channel_bypass
+Text Label 12700 8150 0    50   ~ 0
+od_A
 $EndSCHEMATC
