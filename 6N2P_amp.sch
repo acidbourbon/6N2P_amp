@@ -177,7 +177,7 @@ U 1 1 5E9D4A85
 P 7500 9050
 F 0 "RV1" H 7430 9096 50  0000 R CNN
 F 1 "500k log" H 7430 9005 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal" H 7500 9050 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 7500 9050 50  0001 C CNN
 F 3 "~" H 7500 9050 50  0001 C CNN
 	1    7500 9050
 	1    0    0    1   
@@ -326,7 +326,7 @@ U 1 1 5EA01ABF
 P 10850 9050
 F 0 "RV2" H 10780 9096 50  0000 R CNN
 F 1 "500k log" H 10780 9005 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal" H 10850 9050 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 10850 9050 50  0001 C CNN
 F 3 "~" H 10850 9050 50  0001 C CNN
 	1    10850 9050
 	1    0    0    1   
@@ -554,7 +554,7 @@ U 1 1 5EA5DA4C
 P 17300 9100
 F 0 "RV5" H 17230 9146 50  0000 R CNN
 F 1 "50k lin" H 17230 9055 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal" H 17300 9100 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 17300 9100 50  0001 C CNN
 F 3 "~" H 17300 9100 50  0001 C CNN
 	1    17300 9100
 	-1   0    0    1   
@@ -587,7 +587,7 @@ U 1 1 5EA6217D
 P 17300 8500
 F 0 "RV4" H 17230 8546 50  0000 R CNN
 F 1 "500k log" H 17230 8455 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal" H 17300 8500 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 17300 8500 50  0001 C CNN
 F 3 "~" H 17300 8500 50  0001 C CNN
 	1    17300 8500
 	-1   0    0    1   
@@ -598,7 +598,7 @@ U 1 1 5EA63875
 P 17300 7900
 F 0 "RV3" H 17231 7946 50  0000 R CNN
 F 1 "250k lin" H 17231 7855 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal" H 17300 7900 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 17300 7900 50  0001 C CNN
 F 3 "~" H 17300 7900 50  0001 C CNN
 	1    17300 7900
 	1    0    0    1   
@@ -683,7 +683,7 @@ U 1 1 5EAACE34
 P 18100 8500
 F 0 "RV6" H 18030 8546 50  0000 R CNN
 F 1 "1M log" H 18030 8455 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal" H 18100 8500 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 18100 8500 50  0001 C CNN
 F 3 "~" H 18100 8500 50  0001 C CNN
 	1    18100 8500
 	1    0    0    1   
