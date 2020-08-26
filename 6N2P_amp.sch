@@ -2101,7 +2101,7 @@ OD
 Wire Wire Line
 	12900 8500 12900 8450
 Text Notes 1550 13600 0    118  ~ 0
-TODO:\n\nfootswitch -> 2n7000 inverter to swith CL and OD nets\npower input hohlstecker pcb
+TODO:\n\nfootswitch -> 2n7000 inverter to swith CL and OD nets\npower input hohlstecker pcb\n\n470R resistors for LEDs\n25mm space between LDR and LED
 $Comp
 L micha_custom:6.3MMTRSSwitched J5
 U 1 1 5F86FF44
